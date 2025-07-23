@@ -1,9 +1,6 @@
 <h2 align="center">Hi, I'm Frontend Developer</h2>
 
 ###
-<p align="center">
-  ![codewars](https://www.codewars.com/users/arcintins/badges/large)
-</p>
 
 <p align="left">My stack:</p>
 
@@ -22,3 +19,9 @@
 </div>
 
 ###
+
+<p align="left">My codewars:</p>
+
+<p align="center">
+  <img src="https://www.codewars.com/users/arcintins/badges/large">
+</p>
