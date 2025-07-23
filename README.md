@@ -23,5 +23,7 @@
 <p align="left">My codewars:</p>
 
 <p align="left">
-  <img src="https://www.codewars.com/users/arcintins/badges/large">
+  <a href="https://www.codewars.com/users/arcintins">  
+    <img src="https://www.codewars.com/users/arcintins/badges/large" >
+  </a>
 </p>
