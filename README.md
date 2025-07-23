@@ -22,6 +22,6 @@
 
 <p align="left">My codewars:</p>
 
-<p align="center">
+<p align="left">
   <img src="https://www.codewars.com/users/arcintins/badges/large">
 </p>
